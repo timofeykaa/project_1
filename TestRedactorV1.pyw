@@ -3,6 +3,9 @@ from tkinter import *
 from tkinter import messagebox as mb
 import sys
 
+# тутутуутуууу
+
+
 SymbolsMax = 5
 AnswerSymbolsMax = 1
 EmptyEntry = 0

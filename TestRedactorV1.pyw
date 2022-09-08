@@ -4,8 +4,7 @@ from tkinter import messagebox as mb
 import sys
 
 # тутутуутуууу
-
-
+# пау пауу
 SymbolsMax = 5
 AnswerSymbolsMax = 1
 EmptyEntry = 0
